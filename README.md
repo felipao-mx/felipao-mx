@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Felipe López, A.K.A. Felipao. My friends always find new variations of my name that match the regular expression `Feli\w*`
+My name is **Felipe López**, A.K.A. Felipao. My friends always find new variations of my name that match the regular expression `Feli\w*`. 
+
+I'am a software developer from Mexico 🇲🇽.
 
 
 
