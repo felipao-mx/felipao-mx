@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Felipe López A.K.A felipao. My friends always find new variations of my name that matches Feli\w*`
+My name is Felipe López A.K.A felipao. My friends always find new variations of my name that matches `Feli\w*`
 
 
 
