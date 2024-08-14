@@ -2,7 +2,7 @@
 
 My name is **Felipe López**, A.K.A. Felipao. 
 
-I'am a software developer from Mexico 🇲🇽.
+I'm a software developer from Mexico 🇲🇽.
 
 
 
